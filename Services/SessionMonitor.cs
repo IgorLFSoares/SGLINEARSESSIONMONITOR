@@ -110,7 +110,7 @@ namespace SGLinearSessionMonitor
     public class Session
     {
         public int SessionId { get; set; }
-        public string Username { get; set; }
+        public string Username { get; set;}
     }
 
     public class SessionInfo
