@@ -1,0 +1,8 @@
+{
+    "ProcessName": "sglinear.exe",
+    "MaxInstancesPerSession": 3,
+    "ScanIntervalSeconds": 5,
+    "SendMessageTitle": "Limite de Instâncias",
+    "SendMessageBody": "Você atingiu o limite máximo de 3 instâncias do SGLinear."
+  }
+  

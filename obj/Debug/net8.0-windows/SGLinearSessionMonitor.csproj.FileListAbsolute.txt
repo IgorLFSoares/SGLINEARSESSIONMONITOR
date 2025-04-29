@@ -1,0 +1,7 @@
+C:\Linear_Ferramentas\SGLinearSessionMonitor\SGLinearSessionMonitor\obj\Debug\net8.0-windows\SGLinearSessionMonitor.csproj.GenerateResource.cache
+C:\Linear_Ferramentas\SGLinearSessionMonitor\SGLinearSessionMonitor\obj\Debug\net8.0-windows\SGLinearSessionMonitor.Properties.Resources.resources
+C:\Linear_Ferramentas\SGLinearSessionMonitor\SGLinearSessionMonitor\obj\Debug\net8.0-windows\SGLinearSessionMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Linear_Ferramentas\SGLinearSessionMonitor\SGLinearSessionMonitor\obj\Debug\net8.0-windows\SGLinearSessionMonitor.AssemblyInfoInputs.cache
+C:\Linear_Ferramentas\SGLinearSessionMonitor\SGLinearSessionMonitor\obj\Debug\net8.0-windows\SGLinearSessionMonitor.AssemblyInfo.cs
+C:\Linear_Ferramentas\SGLinearSessionMonitor\SGLinearSessionMonitor\obj\Debug\net8.0-windows\SGLinearSessionMonitor.csproj.CoreCompileInputs.cache
+C:\Linear_Ferramentas\SGLinearSessionMonitor\SGLinearSessionMonitor\obj\Debug\net8.0-windows\SGLinearSessionMonitor.csproj.AssemblyReference.cache
